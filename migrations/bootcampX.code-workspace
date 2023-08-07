@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"askForPassword": true,
+				"driver": "PostgreSQL",
+				"name": "postgres",
+				"database": "example",
+				"username": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "bootcampx",
+				"database": "bootcampx",
+				"username": "labber"
+			}
+		]
+	}
+}
